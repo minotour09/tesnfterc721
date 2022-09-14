@@ -1,0 +1,14 @@
+{
+    "network": "ganache",
+    "contract_address": "",
+    "owner_address": "0xFBB2b71b5dA151bfb7aa603cAB1394e11E483273",
+    "owner_mnemonic": "accuracy country composition value currency series character",
+    "public": true,
+    "contract": {
+        "name": "Poly721",
+        "ticker": "POLY721",
+        "description": "https://ipfs.io/ipfs/bafkreibqsvjbkkqkrn53htg2dpm5msld3xdqt4p6gsqkmfwvawtgawz6te"
+    },
+    "provider": "http://localhost:7545",
+    "baseURI": "https://ipfs.io/ipfs/"
+}
